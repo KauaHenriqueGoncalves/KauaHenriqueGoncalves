@@ -1,5 +1,4 @@
 ## 👋 Hello, There!
-### My name is Kauã and my nickname is KauaHenriqueGoncalves!
 
 ## // Languages/FrameWorks:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
