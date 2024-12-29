@@ -1,6 +1,6 @@
 ## 👋 Hello, There!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenriqueGoncalves&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenriqueGoncalves&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Kaua_MrKing)
 
 
