@@ -1,7 +1,7 @@
 ## 👋 Hello, There!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenriqueGoncalves&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaHenriqueGoncalves&show_icons=true&theme=radicalhide=contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaHenriqueGoncalves&show_icons=true&theme=radical&hide=contribs)
 
 
 ## // Languages/FrameWorks:
