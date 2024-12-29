@@ -1,7 +1,7 @@
 ## 👋 Hello, There!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenriqueGoncalves&layout=compact)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KauaHenriqueGoncalves)](https://github.com/KauaHenriqueGoncalves/github-readme-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Kaua_MrKing)
 
 
 ## // Languages/FrameWorks:
