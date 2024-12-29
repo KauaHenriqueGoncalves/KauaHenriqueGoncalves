@@ -1,10 +1,7 @@
 ## 👋 Hello, There!
 
-<div>
-<a href="https://github.com/KauaHenriqueGoncalves">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?KauaHenriqueGoncalves&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?KauaHenriqueGoncalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenriqueGoncalves&layout=compact)
+
 
 ## // Languages/FrameWorks:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
