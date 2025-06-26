@@ -4,7 +4,7 @@ I'm Kauã Henrique, a Software Engineering student with a degree in Software Dev
 
 
 <div>
-  <img src="https://www.tramaweb.com.br/wp-content/uploads/2019/10/f6719fd6-tenor.gif" width="190"/>
+  <img src="https://www.tramaweb.com.br/wp-content/uploads/2019/10/f6719fd6-tenor.gif" width="185"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenriqueGoncalves&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
