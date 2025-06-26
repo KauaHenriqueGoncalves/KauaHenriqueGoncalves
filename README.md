@@ -9,11 +9,8 @@ I'm Kauã Henrique, a Software Engineering student with a degree in Software Dev
   </a>
 </p>
 
-
-
-
 <p align="center">
-  <img src="https://cdn-wcsm.alura.com.br/2025/04/imagem14.gif" width="200"/>
+  <img src="https://www.tramaweb.com.br/wp-content/uploads/2019/10/f6719fd6-tenor.gif" width="200"/>
 </p>
 
 
