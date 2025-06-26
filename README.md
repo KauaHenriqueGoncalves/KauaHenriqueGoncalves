@@ -5,7 +5,7 @@ I'm Kauã Henrique, a Software Engineering student with a degree in Software Dev
 
 ### My Skills
 <div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=aws,arch,babel,bootstrap,c,css,debian,discord,docker&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 </div>
 
 
