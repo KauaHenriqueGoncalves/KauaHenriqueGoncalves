@@ -4,6 +4,16 @@ I'm Kauã Henrique, a Software Engineering student with a degree in Software Dev
 
 
 ### My Skills
+
+<details>
+  <summary>Clique aqui para saber mais 👀</summary>
+
+  <br>
+
+  Aqui dentro vai o conteúdo oculto!  
+  Você pode colocar listas, imagens, códigos ou o que quiser.
+</details>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
