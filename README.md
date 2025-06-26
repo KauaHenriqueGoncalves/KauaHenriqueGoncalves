@@ -9,12 +9,16 @@ I'm Kauã Henrique, a Software Engineering student with a degree in Software Dev
 ### -- My Skills:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=babel,bootstrap,c,css,express,gradle,html,java,js,maven,mongodb,mysql,nodejs,npm,postgres,postman,regex,spring" />
+    <img src="https://skillicons.dev/icons?i=babel,bootstrap,c,css,express,gradle,html,java,js,maven,mongodb,mysql,nodejs,npm,postgres,postman,regex,spring,postgres,webpack" />
   </a>
 </p>
 
-### -- IDE:
-
+### -- Tools:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,docker,debian,discord,git,github,gitlab,linux,notion,postman,ubuntu" />
+  </a>
+</p>
 
 
 
