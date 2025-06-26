@@ -3,14 +3,6 @@
 I'm Kauã Henrique, a Software Engineering student with a degree in Software Development Technician. I'm currently delving deeper into backend technologies, focusing on Java, Spring Boot, and several others, and I've been adding practical projects to my GitHub that reflect my studies and development in the field. My goal is to develop applications, applying best practices, architectural patterns, and automated testing. Here you'll find codes, ideas, and technical experiments that are part of my learning as a developer.
 
 
-<div>
-     <a href="https://github.com/KauaHenriqueGoncalves">
-        <img height="170em"
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=NFTSZ&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages"
-             alt="Most used languages">
-    </a>
-</div>
-
 
 
 ## ✉️ Contatos:
