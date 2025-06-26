@@ -2,9 +2,11 @@
 
 I'm Kauã Henrique, a Software Engineering student with a degree in Software Development Technician. I'm currently delving deeper into backend technologies, focusing on Java, Spring Boot, and several others, and I've been adding practical projects to my GitHub that reflect my studies and development in the field. My goal is to develop applications, applying best practices, architectural patterns, and automated testing. Here you'll find codes, ideas, and technical experiments that are part of my learning as a developer.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KauaHenriqueGoncalves)](https://github.com/ryo-ma/github-profile-trophy)
+![Hiroshi's GitHub top langs](https://github-readme-stats-sooty-xi-86.vercel.app/api/top-langs/?username=KauaHenriqueGoncalves&layout=compact&langs_count=8&theme=onedark&hide=css)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenriqueGoncalves&layout=compact)
+
+
+
 
 
 
