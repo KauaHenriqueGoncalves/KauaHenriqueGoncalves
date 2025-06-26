@@ -1,7 +1,7 @@
 
-<h1 align="center">🐧 Hello, Guys!!</h1>
+<h1 align="center">🐧 Hello, There!!</h1>
 <p align="center">
-  <i>Desenvolvedor apaixonado por animes, tecnologia e código limpo 🧼✨</i>
+  <i>I am a developer and problem solver</i>
 </p>
 
 
