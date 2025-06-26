@@ -5,7 +5,7 @@ I'm Kauã Henrique, a Software Engineering student with a degree in Software Dev
 
 ### My Skills
 <details>
-  <span>Tecnologias:</span>
+  <summary>Tecnologias:</sumarry>
   <br>
   <p align="center">
     <a href="https://skillicons.dev">
