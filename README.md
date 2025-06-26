@@ -3,36 +3,6 @@
 I'm Kauã Henrique, a Software Engineering student with a degree in Software Development Technician. I'm currently delving deeper into backend technologies, focusing on Java, Spring Boot, and several others, and I've been adding practical projects to my GitHub that reflect my studies and development in the field. My goal is to develop applications, applying best practices, architectural patterns, and automated testing. Here you'll find codes, ideas, and technical experiments that are part of my learning as a developer.
 
 
-<details>
-  <summary>My Skills</summary>
-<div style="display: inline_block" align="center">
- <div style="display: inline_block" align="center">
-  <br>
-  <img align="center" alt="Erick-Js" height="40" width="40" src="https://skillicons.dev/icons?i=javascript">
-  <img align="center" alt="Erick-Rust" height="40" width="40" src="https://skillicons.dev/icons?i=python">
-  <img align="center" alt="Erick-C#" height="40" width="40" src="https://skillicons.dev/icons?i=cs"/>
-  <img align="center" alt="Erick-Redux" height="40" width="40" src="https://skillicons.dev/icons?i=redux"/>
-  <img align="center" alt="Erick-Tailwind" height="40" width="40" src="https://skillicons.dev/icons?i=tailwind">
-  <img align="center" alt="Erick-Sass/Scss" height="40" width="40" src="https://skillicons.dev/icons?i=sass">
-  <img align="center" alt="Erick-Git" height="40" width="40" src="https://skillicons.dev/icons?i=git">
-  <img align="center" alt="Erick-Github" height="40" width="40" src="https://skillicons.dev/icons?i=github">
-  <img align="center" alt="Erick-Github" height="40" width="40" src="https://skillicons.dev/icons?i=gitlab">
-  <br><br>
-  <img align="center" alt="Erick-NodeJs" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs"/>
-  <img align="center" alt="Erick-Express" height="40" width="40" src="https://skillicons.dev/icons?i=express"/>
-  <img align="center" alt="Erick-MySql" height="40" width="40" src="https://skillicons.dev/icons?i=mysql"/>
-  <img align="center" alt="Erick-PostgreSql" height="40" width="40" src="https://skillicons.dev/icons?i=postgresql"/>
-  <img align="center" alt="Erick-MongoDb" height="40" width="40" src="https://skillicons.dev/icons?i=mongodb"/>
-  <img align="center" alt="Erick-Docker" height="40" width="40" src="https://skillicons.dev/icons?i=docker" />
-  <img align="center" alt="Erick-Prometheus" height="40" width="40" src="https://skillicons.dev/icons?i=java" />
-  <img align="center" alt="Erick-GitLab" height="40" width="40"  src="https://skillicons.dev/icons?i=spring"/>
-  <img align="center" alt="Erick-Vercel" height="40" width="40" src="https://skillicons.dev/icons?i=vercel"/>
-  <img align="center" alt="Erick-VisualStudioCode" height="40" width="40" src="https://skillicons.dev/icons?i=linux"/>
- </div>
-</div>
-</details>
-
-
 
 
 <p align="center">
