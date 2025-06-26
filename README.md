@@ -7,6 +7,16 @@ I'm Kauã Henrique, a Software Engineering student with a degree in Software Dev
 
 
 
+<details>
+  <summary>Github Stats</summary>
+<div align="center">
+   <img align="center" src="https://simple-github-stats.vercel.app/?user=KauaHenriqueGoncalves&date=02/01/2020" />
+</div>
+  
+  [^ This Github Stats is one of my projects!](https://github.com/KauaHenriqueGoncalves/SimpleGithubStats)
+</details>
+
+
 
 
 
