@@ -7,7 +7,9 @@
 
 <div align="center">
   <img src="https://www.tramaweb.com.br/wp-content/uploads/2019/10/f6719fd6-tenor.gif" width="180"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenriqueGoncalves&layout=compact&langs_count=7&theme=dracula"/>
+  [![Top Langs])](https://github.com/anuraghazra/github-readme-stats)
+
+  <img loading="lazy" height="180em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenriqueGoncalves&theme=dracula"/>
 </div>
 
 
