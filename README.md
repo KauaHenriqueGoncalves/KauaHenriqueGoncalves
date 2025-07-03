@@ -8,7 +8,7 @@
 <div align="center">
   <img src="https://www.tramaweb.com.br/wp-content/uploads/2019/10/f6719fd6-tenor.gif" width="180"/>
 
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenriqueGoncalves&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenriqueGoncalves&layout=compact&theme=dracula"/>
 </div>
 
 
