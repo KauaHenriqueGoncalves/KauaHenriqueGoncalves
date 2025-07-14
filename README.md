@@ -66,9 +66,9 @@ experiments that are part of my learning as a developer.
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg&width=1000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KauaHenriqueGoncalves/KauaHenriqueGoncalves/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.comKauaHenriqueGoncalves/KauaHenriqueGoncalves/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KauaHenriqueGoncalves/KauaHenriqueGoncalves/output/pacman-contribution-graph.svg">
 </picture>
 
 <!-- GitHub Stats -->
