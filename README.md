@@ -37,7 +37,7 @@ Here you'll find codes, ideas, and technical experiments that are part of my lea
 
 ---
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" /> Stacks </h3>
+<h3><img src="https://tenor.com/pt-PT/view/linux-tux-rotate-gif-24807752" alt="Linux" width="30" height="30" /> Stacks </h3>
 
 <div align="center">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
