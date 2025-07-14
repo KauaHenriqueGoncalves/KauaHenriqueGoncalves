@@ -5,13 +5,13 @@
 <!-- Contact Badges -->
 <p align="center">
   <!-- LinkedIn Badge -->
-  <a href="www.linkedin.com/in/kauã-gonçalves" style="text-decoration: none;">
+  <a href="www.linkedin.com/in/kauã-gonçalves/" style="text-decoration: none;">
     <img alt="LinkedIn" title="Connect with me on LinkedIn" 
          src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=634781" 
          style="height: 27px;" /></a>
 
   <!-- Gmail Badge -->
-  <a href="mailto:kauahenriquegoncalves00@gmail.com" style="text-decoration: none;">
+  <a href="mailto:kauahenriquegoncalves00@gmail.com/" style="text-decoration: none;">
     <img alt="Gmail" title="Send me an email" 
          src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=634781" 
          style="height: 27px;" /></a>
