@@ -65,14 +65,14 @@ experiments that are part of my learning as a developer.
   </a>
 </p>
 
-<picture style="margin-bottom: 10px;">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KauaHenriqueGoncalves/KauaHenriqueGoncalves/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KauaHenriqueGoncalves/KauaHenriqueGoncalves/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KauaHenriqueGoncalves/KauaHenriqueGoncalves/output/pacman-contribution-graph.svg">
 </picture>
 
 <!-- GitHub Stats -->
-<details>
+<details style="margin-top: 15px;">
   <summary>🐧 Github Stats 🐧</summary>
   <br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
