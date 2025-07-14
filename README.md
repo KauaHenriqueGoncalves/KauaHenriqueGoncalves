@@ -1,4 +1,4 @@
-# Kauã Henrique Gonçalves
+## Kauã Henrique Gonçalves 🐧
 
 <br>
 
@@ -77,8 +77,8 @@ experiments that are part of my learning as a developer.
   <br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <!-- GitHub Stats Cards -->
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=KauaHenriqueGoncalves&show_icons=true&locale=en&theme=blueberry&rank_icon=github&card_width=125" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenriqueGoncalves&theme=blueberry&layout=compact&card_width=125">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=KauaHenriqueGoncalves&show_icons=true&locale=en&theme=blueberry&rank_icon=github&card_width=150" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenriqueGoncalves&theme=blueberry&layout=compact&card_width=150">
 </div>
   
 </details>
