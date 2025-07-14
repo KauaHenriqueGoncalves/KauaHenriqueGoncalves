@@ -71,8 +71,10 @@ experiments that are part of my learning as a developer.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KauaHenriqueGoncalves/KauaHenriqueGoncalves/output/pacman-contribution-graph.svg">
 </picture>
 
+<br>
+
 <!-- GitHub Stats -->
-<details style="margin-top: 15px;">
+<details>
   <summary>🐧 Github Stats 🐧</summary>
   <br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
