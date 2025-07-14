@@ -71,6 +71,8 @@ experiments that are part of my learning as a developer.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KauaHenriqueGoncalves/KauaHenriqueGoncalves/output/pacman-contribution-graph.svg">
 </picture>
 
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
 <!-- GitHub Stats -->
 <details>
   <summary>🐧 Github Stats 🐧</summary>
