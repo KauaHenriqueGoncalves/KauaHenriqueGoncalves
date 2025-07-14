@@ -71,16 +71,14 @@ experiments that are part of my learning as a developer.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KauaHenriqueGoncalves/KauaHenriqueGoncalves/output/pacman-contribution-graph.svg">
 </picture>
 
-<br>
-
 <!-- GitHub Stats -->
 <details>
   <summary>🐧 Github Stats 🐧</summary>
   <br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <!-- GitHub Stats Cards -->
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=KauaHenriqueGoncalves&show_icons=true&locale=en&theme=blueberry&rank_icon=github&card_width=100" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenriqueGoncalves&theme=blueberry&layout=compact&card_width=100">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=KauaHenriqueGoncalves&show_icons=true&locale=en&theme=blueberry&rank_icon=github&card_width=125" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenriqueGoncalves&theme=blueberry&layout=compact&card_width=125">
 </div>
   
 </details>
