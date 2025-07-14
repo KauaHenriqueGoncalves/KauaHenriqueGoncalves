@@ -41,20 +41,19 @@ experiments that are part of my learning as a developer.
 
 <div align="center">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="BootStrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img alt="JavaFX" src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" />
+  <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="Nodemon" src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)" />
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 
 ---
@@ -77,88 +76,12 @@ experiments that are part of my learning as a developer.
 
 <!-- GitHub Stats -->
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary>🐧 Github Stats 🐧</summary>
   <br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <!-- GitHub Stats Cards -->
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=andrrade&show_icons=true&locale=en&theme=blueberry&rank_icon=github&card_width=100" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrade&theme=blueberry&layout=compact&card_width=100">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=KauaHenriqueGoncalves&show_icons=true&locale=en&theme=blueberry&rank_icon=github&card_width=100" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenriqueGoncalves&theme=blueberry&layout=compact&card_width=100">
 </div>
   
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-------------------------------------------------------------------------------------------------
-
-
-
-## 🐧 Hello, There!!
-
-<p>
-  I'm Kauã Henrique, a Software Engineering student with a degree in Software Development Technician. I'm currently delving deeper into backend technologies, focusing on Java, Spring Boot, and several others, and I've been adding practical projects to my GitHub that reflect my studies and development in the field. My goal is to develop applications, applying best practices, architectural patterns, and automated testing. Here you'll find codes, ideas, and technical experiments that are part of my learning as a developer.
-</p>
-
-
-<div align="center">
-  <img src="https://www.tramaweb.com.br/wp-content/uploads/2019/10/f6719fd6-tenor.gif" width="180"/>
-
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenriqueGoncalves&layout=compact&theme=dracula"/>
-</div>
-
-
-### -- My Skills:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=babel,bootstrap,c,css,express,gradle,html,java,js,maven,mongodb,mysql,nodejs,npm,postgres,postman,regex,spring,postgres,webpack" />
-  </a>
-</p>
-
-### -- Tools:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,docker,debian,discord,git,github,gitlab,linux,notion,postman,ubuntu" />
-  </a>
-</p>
-
-
-
-
-## ✉️ Contatos:
-<div>
-  <a href="https://www.instagram.com/kaua__goncalves/">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:kauahenriquegoncalves00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/kau%C3%A3-gon%C3%A7alves/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
