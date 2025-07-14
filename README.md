@@ -29,8 +29,8 @@
 
 <br>
 
-I'm Kauã Henrique, a Software Engineering student with a degree in Software Development Technician. <br>
-I'm currently delving deeper into backend technologies, focusing on Java, Spring Boot, and several others, <br>
+I'm Kauã Henrique, a Software Engineering student with a degree in Software Development Technician. I'm currently delving deeper <br>
+ into backend technologies, focusing on Java, Spring Boot, and several others, <br>
 and I've been adding practical projects to my GitHub that reflect my studies and development in the field. <br>
 My goal is to develop applications, applying best practices, architectural patterns, and automated testing. <br>
 Here you'll find codes, ideas, and technical experiments that are part of my learning as a developer.
