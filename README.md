@@ -25,7 +25,7 @@
 
 <!-- GitHub Logo -->
 
-<img align="right" alt="tux-typing-gif" src="https://www.tramaweb.com.br/wp-content/uploads/2019/10/f6719fd6-tenor.gif" width="150px" />
+<img align="right" alt="cat-gif" src="https://www.tramaweb.com.br/wp-content/uploads/2019/10/f6719fd6-tenor.gif" width="140px" />
 
 <br>
 
