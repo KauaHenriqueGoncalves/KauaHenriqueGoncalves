@@ -25,7 +25,7 @@
 
 <!-- GitHub Logo -->
 
-
+<img align="right" alt="tux-typing-gif" src="https://www.tramaweb.com.br/wp-content/uploads/2019/10/f6719fd6-tenor.gif" width="90px" />
 
 <br>
 
@@ -33,7 +33,7 @@ I'm Kauã Henrique, a Software Engineering student with a degree in Software Dev
 
 ---
 
-<h3><img align="right" alt="tux-typing-gif" src="https://www.tramaweb.com.br/wp-content/uploads/2019/10/f6719fd6-tenor.gif" width="90px" /> Stacks </h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" /> Stacks </h3>
 
 <div align="center">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
