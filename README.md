@@ -65,7 +65,7 @@ experiments that are part of my learning as a developer.
   </a>
 </p>
 
-<picture>
+<picture style="margin-bottom: 10px;">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KauaHenriqueGoncalves/KauaHenriqueGoncalves/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KauaHenriqueGoncalves/KauaHenriqueGoncalves/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KauaHenriqueGoncalves/KauaHenriqueGoncalves/output/pacman-contribution-graph.svg">
