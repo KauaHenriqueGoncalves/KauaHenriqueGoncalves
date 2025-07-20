@@ -19,7 +19,7 @@
   <!-- Instagram -->
   <a href="https://www.instagram.com/kaua__goncalves/" style="text-decoration: none;">
     <img alt="Instagram" title="My Instagram" 
-         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=instagram&logoColor=white&labelColor=634781" 
+         src="https://custom-icon-badges.demolab.com/badge/-Instagram-282A36?style=for-the-badge&logo=instagram&logoColor=white&labelColor=634781" 
          style="height: 27px;" /></a>
 </p>
 
