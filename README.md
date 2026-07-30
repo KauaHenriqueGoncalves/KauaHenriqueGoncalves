@@ -14,8 +14,6 @@
 
 </div>
 
-<br/>
-
 ## About <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" alt="Linux" width="20" height="20" />
 
 I'm a Software Engineering student who ended up specializing in full-stack work, Java and Spring Boot are where I spend most of my time, but I've picked up Python, TypeScript, C#, and Node.js along the way, usually because a project or a client needed it.
