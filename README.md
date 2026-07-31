@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=200&section=header&text=Kaua%20Henrique%20Goncalves&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=200&section=header&text=Kaua%20Henrique%20Goncalves&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
+![](https://komarev.com/ghpvc/?username=KauaHenriqueGoncalves&color=0A66C2)
 
 <a href="https://www.linkedin.com/in/kauã-gonçalves">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -10,15 +11,18 @@
   <img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+
 <br/>
 
 </div>
 
 ## About <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" alt="Linux" width="20" height="20" />
 
-I'm a Software Engineering student who ended up specializing in full-stack work, Java and Spring Boot are where I spend most of my time, but I've picked up Python, TypeScript, C#, and Node.js along the way, usually because a project or a client needed it.
+Software engineering student 
 
-Outside of coursework I take on freelance projects, which is honestly where most of the "real world" lessons come from.
+I'm a Software Engineering student who ended up specializing in full-stack work, Java and Spring Boot, but I've picked up Python, TypeScript, C#, and Node.js along the way, usually because a project or a client needed it, we can't forget about front-end, React and Angular.
+
+I'm falling in love about building clean, functional systems and backend architecture, and cloud services.
 
 <br/>
 
